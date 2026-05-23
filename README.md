@@ -36,10 +36,6 @@ Using **Python, MySQL, and Power BI**, this project analyzes customer spending p
 - Discounts significantly influenced buying decisions.
 - Loyal customers formed a major revenue-driving segment.
 
----
-
-## 📷 Dashboard Preview
-![Customer Behavior Dashboard](dashboard_preview.png)
 
 ---
 
