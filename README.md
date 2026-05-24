@@ -43,10 +43,11 @@ Using **Python, MySQL, and Power BI**, this project analyzes customer spending p
 
 | File | Description |
 |------|-------------|
-| `Customer _shopping_behaviour.ipynb` | Python data cleaning & EDA |
-| `Customer Behavior Dashboard_queries.sql` | SQL business queries |
+| `Business Problem Statement.pdf` | Business Problem |
 | `Customer Behavior Dashboard.pbix` | Power BI dashboard |
+| `Customer Behavior Dashboard_queries.sql` | SQL business queries |
 | `Customer Shopping Behavior Analysis.pdf` | Detailed project report |
+| `Customer _shopping_behaviour.ipynb` | Python data cleaning & EDA |
 | `Customer-Shopping-Behavior-Analysis.pptx` | Project presentation |
 | `customer_shopping_behavior.csv` | Dataset used for analysis |
 
